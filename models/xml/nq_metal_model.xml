@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net">
+  <diagram id="graph1" name="Graph">
+    <mxGraphModel dx="1000" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Mastodon" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Sabaton" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="StevenWilson" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="WithinTemptation" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="AnimalsAsLeaders" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Periphery" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1850" y="100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="Meshuggah" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2200" y="100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="IronMaiden" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="350" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="Gojira" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="350" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="SymphonyX" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="350" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="Leprous" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="350" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="DevinTownsend" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="350" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="Sepultura" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1850" y="350" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="AmonAmarth" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2200" y="350" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="Epica" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="ArchEnemy" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="18" value="KingCrimson" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="19" value="JudasPriest" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="20" value="Haken" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="21" value="Nightwish" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1850" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="22" value="Megadeth" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2200" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="23" value="Trivium" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="850" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="24" value="Ihsahn" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="850" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="25" value="Tool" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="850" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="26" value="Behemoth" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="850" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="27" value="Opeth" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="850" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="28" value="Soulfly" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1850" y="850" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="29" value="Slayer" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2200" y="850" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="30" value="Powerwolf" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="31" value="DreamTheater" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="32" value="TarjaTurunen" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="33" value="LambOfGod" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="1100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="34" value="Delain" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="1100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="35" value="Metallica" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1850" y="1100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="36" value="influenced" style="endArrow=block;html=1;" edge="1" parent="1" source="35" target="29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="37" value="influenced" style="endArrow=block;html=1;" edge="1" parent="1" source="29" target="33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="38" value="collaborated_with" style="endArrow=block;html=1;" edge="1" parent="1" source="35" target="22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39" value="influenced" style="endArrow=block;html=1;" edge="1" parent="1" source="22" target="23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="40" value="toured_with" style="endArrow=block;html=1;" edge="1" parent="1" source="23" target="33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="41" value="influenced" style="endArrow=block;html=1;" edge="1" parent="1" source="27" target="10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="42" value="toured_with" style="endArrow=block;html=1;" edge="1" parent="1" source="10" target="33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="43" value="collaborated_with" style="endArrow=block;html=1;" edge="1" parent="1" source="27" target="4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="44" value="toured_with" style="endArrow=block;html=1;" edge="1" parent="1" source="35" target="10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="45" value="influenced" style="endArrow=block;html=1;" edge="1" parent="1" source="9" target="35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="46" value="toured_with" style="endArrow=block;html=1;" edge="1" parent="1" source="9" target="19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="47" value="influenced" style="endArrow=block;html=1;" edge="1" parent="1" source="19" target="22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="48" value="collaborated_with" style="endArrow=block;html=1;" edge="1" parent="1" source="21" target="32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="49" value="toured_with" style="endArrow=block;html=1;" edge="1" parent="1" source="21" target="16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="50" value="influenced" style="endArrow=block;html=1;" edge="1" parent="1" source="16" target="5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="51" value="toured_with" style="endArrow=block;html=1;" edge="1" parent="1" source="5" target="34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="52" value="collaborated_with" style="endArrow=block;html=1;" edge="1" parent="1" source="31" target="27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="53" value="toured_with" style="endArrow=block;html=1;" edge="1" parent="1" source="31" target="11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="54" value="influenced" style="endArrow=block;html=1;" edge="1" parent="1" source="11" target="20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="55" value="toured_with" style="endArrow=block;html=1;" edge="1" parent="1" source="20" target="12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="56" value="collaborated_with" style="endArrow=block;html=1;" edge="1" parent="1" source="12" target="24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="57" value="collaborated_with" style="endArrow=block;html=1;" edge="1" parent="1" source="10" target="13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="58" value="toured_with" style="endArrow=block;html=1;" edge="1" parent="1" source="13" target="27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="59" value="influenced" style="endArrow=block;html=1;" edge="1" parent="1" source="25" target="2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="60" value="toured_with" style="endArrow=block;html=1;" edge="1" parent="1" source="2" target="10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="61" value="collaborated_with" style="endArrow=block;html=1;" edge="1" parent="1" source="25" target="18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="62" value="influenced" style="endArrow=block;html=1;" edge="1" parent="1" source="18" target="31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="63" value="influenced" style="endArrow=block;html=1;" edge="1" parent="1" source="14" target="28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="64" value="toured_with" style="endArrow=block;html=1;" edge="1" parent="1" source="28" target="33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="65" value="toured_with" style="endArrow=block;html=1;" edge="1" parent="1" source="14" target="29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="66" value="collaborated_with" style="endArrow=block;html=1;" edge="1" parent="1" source="26" target="17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="67" value="toured_with" style="endArrow=block;html=1;" edge="1" parent="1" source="17" target="15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="68" value="influenced" style="endArrow=block;html=1;" edge="1" parent="1" source="15" target="3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="69" value="toured_with" style="endArrow=block;html=1;" edge="1" parent="1" source="3" target="30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="70" value="collaborated_with" style="endArrow=block;html=1;" edge="1" parent="1" source="30" target="16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71" value="influenced" style="endArrow=block;html=1;" edge="1" parent="1" source="21" target="5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="72" value="toured_with" style="endArrow=block;html=1;" edge="1" parent="1" source="21" target="34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="73" value="influenced" style="endArrow=block;html=1;" edge="1" parent="1" source="8" target="7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="74" value="toured_with" style="endArrow=block;html=1;" edge="1" parent="1" source="7" target="20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="75" value="toured_with" style="endArrow=block;html=1;" edge="1" parent="1" source="8" target="10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="76" value="collaborated_with" style="endArrow=block;html=1;" edge="1" parent="1" source="6" target="7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="77" value="toured_with" style="endArrow=block;html=1;" edge="1" parent="1" source="6" target="12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

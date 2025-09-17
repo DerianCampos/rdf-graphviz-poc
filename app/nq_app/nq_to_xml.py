@@ -35,10 +35,10 @@ def nq_to_drawio_xml(nq_file, xml_file):
         xml.append(f'        <mxCell id="{node_id}" value="{node}" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">')
         xml.append(f'          <mxGeometry x="{x}" y="{y}" width="120" height="40" as="geometry" />')
         xml.append('        </mxCell>')
-        x += 150
-        if x > 800:
+        x += 350  # Increased horizontal spacing
+        if x > 2500:  # Increased wrap threshold for more columns
             x = 100
-            y += 80
+            y += 250  # Increased vertical spacing
     edge_id = len(nodes) + 2
     for subj, obj, pred in edges:
         xml.append(f'        <mxCell id="{edge_id}" value="{pred}" style="endArrow=block;html=1;" edge="1" parent="1" source="{node_ids[subj]}" target="{node_ids[obj]}">')
