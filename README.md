@@ -38,6 +38,7 @@ This project demonstrates how to visualize RDF data using Graphviz. It provides 
 │   ├── png/
 │   │   └── nq_metal_model.png
 │   └── xml/
+│       └── nq_metal_model.xml
 ├── requirements.txt
 ├── README.md
 ├── LICENSE
@@ -47,10 +48,10 @@ This project demonstrates how to visualize RDF data using Graphviz. It provides 
 
 ### Description
 - `app/nq_app/` and `app/nt_app/`: Application scripts or modules for N-Quads and N-Triples
-- `app/nq_app/nq_to_xml.py`: Script to convert N-Quads to XML
+- `app/nq_app/nq_to_xml.py`: Script to convert N-Quads to draw.io XML
 - `data/nq/` and `data/nt/`: Example RDF data in N-Quads and N-Triples formats
 - `models/nq/`, `models/nt/`, `models/png/`: Output PNG files generated from the converters
-- `models/xml/`: Output XML files generated from the converters (currently empty)
+- `models/xml/`: Output XML files generated from the converters
 - `requirements.txt`: Python dependencies
 - `README.md`: Project information and usage instructions
 - `LICENSE`: License information
